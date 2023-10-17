@@ -32,7 +32,6 @@ mongoose
   .catch((err) => console.log("Mongo is NOT GOOD \n" + err));
 
 const app = express();
-const POST = process.env.PORT || 3001;
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
@@ -98,7 +97,7 @@ app.delete('/posts/:id', checkAuth, PostController.deletePost);
 
 // Server connect
 
-app.listen(POST, (err) => {
+app.listen(process.env.PORT || 3001, (err) => {
   if (err) console.log("Server is NOT GOOD." + err);
   else console.log("Server is GOOD.");
 });

@@ -1,6 +1,0 @@
-Видео учебник: https://youtu.be/GQ_pTmcXNrQ?si=uXAMgAStlMhyumZL
-
-MONGO
-username: kinolov3
-password: WxLTE1xTI8TkX1Kb
-link: mongodb+srv://kinolov3:WxLTE1xTI8TkX1Kb@blog.wtrdoix.mongodb.net/twitter?retryWrites=true&w=majority

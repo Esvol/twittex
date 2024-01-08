@@ -7,3 +7,5 @@ Here you can:
 - See all others posts on the webpage.
 - Sort by 'new' or 'popular'.
 - Search post by their tags.
+
+BACKEND IS UNAVAILABLE FOR NOW! PLEASE USE YOUR OWN EDITOR TO SEE THE RESULT.

@@ -9,3 +9,4 @@ Here you can:
 - Search post by their tags.
 
 BACKEND IS UNAVAILABLE FOR NOW! PLEASE USE YOUR OWN EDITOR TO SEE THE RESULT.
+How twittex works: https://youtu.be/wGJ5eeD8B8g.
